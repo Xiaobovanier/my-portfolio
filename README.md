@@ -1,6 +1,7 @@
-# 🌐 My Portfolio Website
+# 🌐 My Graphic & Web Designer Portfolio Website
 
-Welcome to my portfolio repository!
+Welcome to my Graphic & Web Designer portfolio!
 
 👉 **Visit my portfolio website:**  
-https://[your-portfolio-url.com](https://www.behance.net/danielzhan)
+[![Portfolio](https://img.shields.io/badge/Visit-Portfolio-blue?style=for-the-badge)](https://www.behance.net/danielzhan)
+
